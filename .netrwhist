@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage/step'
+let g:netrw_dirhist_2='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage'
+let g:netrw_dirhist_3='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage/designs'
+let g:netrw_dirhist_4='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage'
+let g:netrw_dirhist_5='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage/step'
+let g:netrw_dirhist_6='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage'
+let g:netrw_dirhist_7='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage/designs'
+let g:netrw_dirhist_8='/home/gabriel/Desktop/Delta/Delta_DVM_1.2.1/demo/Coverage/designs/i2c'
