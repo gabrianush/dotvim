@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/gabriel/Desktop/OpenRiscUVM/designs/socv/rtl'
+let g:netrw_dirhist_2='/home/gabriel/Desktop/OpenRiscUVM/designs/socv/rtl/rtl_lpw'
+let g:netrw_dirhist_3='/home/gabriel/Desktop/OpenRiscUVM/designs/socv/rtl/rtl_lpw/opencores'
+let g:netrw_dirhist_4='/home/gabriel/Desktop/OpenRiscUVM/designs/socv/rtl/rtl_lpw/opencores/or1200'
+let g:netrw_dirhist_5='/home/gabriel/Desktop/OpenRiscUVM/designs/socv/rtl/rtl_lpw/opencores/or1200/rtl'
